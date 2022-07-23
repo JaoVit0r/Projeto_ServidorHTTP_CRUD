@@ -3,7 +3,7 @@
 Projeto relativo ao módulo de NodeJS, do programa Vem Ser Tech do Ifood, em parceria com a Let'Code. Projeto individual.
 As requisições HTTP foram feitas através do Postman. 
 
-Projeto feito em Javascript e JSON
+Projeto feito em NodeJS e JSON
 
 ## Instruções 
 
