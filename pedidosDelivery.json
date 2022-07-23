@@ -1,0 +1,37 @@
+{
+    "last_id": 4,
+    "data": [
+        {
+            "id": 1,
+            "Restaurante": "McDonald's",
+            "Principal": "Cheese Burguer",
+            "Acompanhamento": "Nuggets",
+            "Bebida": "Fanta uva",
+            "Localidade": "Rua dos Alfeneiros, 4"
+        },
+        {
+            "id": 2,
+            "Restaurante": "Spoletto",
+            "Principal": "Raviolli",
+            "Acompanhamento": "Sem acompanhamento",
+            "Bebida": "Suco de Uva",
+            "Localidade": "Fenda do Biquíni"
+        },
+        {
+            "id": 3,
+            "Restaurante": "Bob's",
+            "Principal": "Whopper",
+            "Acompanhamento": "Casquinha de Baunilha",
+            "Bebida": "Sprite",
+            "Localidade": "Westview"
+        },
+        {
+            "Restaurante": "Giraffas",
+            "Principal": "Prato tradicional",
+            "Acompanhamento": "Torradinhas",
+            "Bebida": "Guaraná Natural",
+            "Localidade": "Ponte de Konoha",
+            "id": 4
+        }
+    ]
+}
